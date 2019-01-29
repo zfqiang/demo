@@ -1,0 +1,16 @@
+{
+    "name": "zhangfq/demo",
+    "description": "a test demo project",
+    "type": "project",
+    "require": {
+        "monolog/monolog": "1.2.1"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "zhangfq",
+            "email": "zhangfq@56cy.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
